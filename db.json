@@ -1,182 +1,207 @@
 {
-    "animal": [
+  "animal": [
     {
-        "id": 1,
-        "pet_name": "shi zi wang",
-        "sex": 2,
-        "age": 4,
-        "alteration_status": 1,
-        "descriptions": "aggressive attack dog",
-        "microchipId": "0012314",
-        "species": 1,
-        "breed": "Chihuahua,Dachshund",
-        "adoption_status": 2
-    },
-    {
-        "id": 2,
-        "pet_name": "car lord",
-        "sex": 2,
-        "age": 3,
-        "alteration_status": 1,
-        "descriptions": "aggressive attack cat",
-        "microchipId": "001231214",
-        "species": 2,
-        "breed": "Abyssinian",
-        "adoption_status": 1
+      "id": 1,
+      "pet_name": "shi zi wang",
+      "sex": 2,
+      "age": 4,
+      "alteration_status": 1,
+      "descriptions": "aggressive attack dog",
+      "microchipId": "0012314",
+      "species": 1,
+      "breed": "Chihuahua,Dachshund",
+      "adoption_status": 2
     },
     {
-        "id": 3,
-        "pet_name": "Moca",
-        "sex": 1,
-        "age": 4,
-        "alteration_status": 1,
-        "descriptions": "smart cute dog",
-        "microchipId": "0012314",
-        "species": 1,
-        "breed": "Afghan Hound",
-        "adoption_status": 1
+      "id": 2,
+      "pet_name": "car lord",
+      "sex": 2,
+      "age": 3,
+      "alteration_status": 1,
+      "descriptions": "aggressive attack cat",
+      "microchipId": "001231214",
+      "species": 2,
+      "breed": "Abyssinian",
+      "adoption_status": 1
     },
-        {
-        "id": 4,
-        "pet_name": "Emily",
-        "sex": 1,
-        "age": 1,
-        "alteration_status": 2,
-        "descriptions": "cute and friendly cat",
-        "microchipId": "0012314",
-        "species": 3,
-        "breed": "Mixed",
-        "adoption_status": 1
+    {
+      "id": 3,
+      "pet_name": "Moca",
+      "sex": 1,
+      "age": 4,
+      "alteration_status": 1,
+      "descriptions": "smart cute dog",
+      "microchipId": "0012314",
+      "species": 1,
+      "breed": "Afghan Hound",
+      "adoption_status": 1
     },
-         {
-        "id": 5,
-        "pet_name": "Joana",
-        "sex": 3,
-        "age": 10,
-        "alteration_status": 1,
-        "descriptions": "cute and friendly cat",
-        "microchipId": "0012314",
-        "species": 2,
-        "breed": "Mixed",
-        "adoption_status": 2
+    {
+      "id": 4,
+      "pet_name": "Emily",
+      "sex": 1,
+      "age": 1,
+      "alteration_status": 2,
+      "descriptions": "cute and friendly cat",
+      "microchipId": "0012314",
+      "species": 3,
+      "breed": "Mixed",
+      "adoption_status": 1
+    },
+    {
+      "id": 5,
+      "pet_name": "Joana",
+      "sex": 3,
+      "age": 10,
+      "alteration_status": 1,
+      "descriptions": "cute and friendly cat",
+      "microchipId": "0012314",
+      "species": 2,
+      "breed": "Mixed",
+      "adoption_status": 2
     }
-        
-],
-    
-"breed": [{"breed": "Abyssinian", "species": "Cat"},
-          {"breed": "Aegean Cat", "species": "Cat"},
-          {"breed": "American Botail", "species":"Cat"},
-          {"breed": "Afghan Hound", "species":"Dog"},
-          {"breed": "Airedale Terrier", "species": "Dog"},
-          {"breed": "Azawakh", "species": "Dog"},
-          {"breed": "Dachund", "species": "Dog"},
-          {"breed": "Dalmatian", "species": "Dog"}],
-    
- "species":[{"id": 1, "species": "Dog"},
-            {"id": 2, "species":"Cat"}],
-    
-    
+  ],
+  "breed": [
+    {
+      "breed": "Abyssinian",
+      "species": "Cat"
+    },
+    {
+      "breed": "Aegean Cat",
+      "species": "Cat"
+    },
+    {
+      "breed": "American Botail",
+      "species": "Cat"
+    },
+    {
+      "breed": "Afghan Hound",
+      "species": "Dog"
+    },
+    {
+      "breed": "Airedale Terrier",
+      "species": "Dog"
+    },
+    {
+      "breed": "Azawakh",
+      "species": "Dog"
+    },
+    {
+      "breed": "Dachund",
+      "species": "Dog"
+    },
+    {
+      "breed": "Dalmatian",
+      "species": "Dog"
+    }
+  ],
+  "species": [
+    {
+      "id": 1,
+      "species": "Dog"
+    },
+    {
+      "id": 2,
+      "species": "Cat"
+    }
+  ],
   "Vaccine": [
-      {
-          "species": "Cat",
-          "vaccine": "Bordetella",
-          "requiredforadoption": "No"
-      },{
-          "species": "Cat",
-          "vaccine": "Feline Calicivirus",
-          "requiredforadoption": "Yes"
-      },{
-          "species": "Dog",
-          "vaccine": "Bordetella",
-          "requiredforadoption": "No"},
-      {
-          "species": "Dog",
-          "vaccine": "Canine Adenovirus-2",
-          "requiredforadoption": "Yes"
-      }],
-    
-    
-    "animalAllInfo": [
     {
-        "id": 1,
-        "pet_name": "shi zi wang",
-        "sex": "Male",
-        "age": 4,
-        "alteration_status": "neutered",
-        "descriptions": "aggressive attack dog",
-        "microchipId": "0012314",
-        "species": "Dog",
-        "breed": "Chihuahua,Dachshund",
-        "adoption_status": "Adopted",
-        "surrender_date": "2019-02-02",
-        "surrender_reason": "hurrican happened",
-        "surrender_by_animal_control": "Yes"
+      "species": "Cat",
+      "vaccine": "Bordetella",
+      "requiredforadoption": "No"
     },
     {
-        "id": 2,
-        "pet_name": "car lord",
-        "sex": "Male",
-        "age": 3,
-        "alteration_status": "neutered",
-        "descriptions": "aggressive attack cat",
-        "microchipId": "001231214",
-        "species": "Cat",
-        "breed": "Abyssinian",
-        "adoption_status": "Not Adopted",
-        "surrender_date": "2020-03-02",
-        "surrender_reason": "having baby",
-        "surrender_by_animal_control": "No"
+      "species": "Cat",
+      "vaccine": "Feline Calicivirus",
+      "requiredforadoption": "Yes"
     },
     {
-        "id": 3,
-        "pet_name": "Moca",
-        "sex": "Female",
-        "age": 4,
-        "alteration_status": "neutered",
-        "descriptions": "smart cute dog",
-        "microchipId": "0012314",
-        "species": "Dog",
-        "breed": "Afghan Hound",
-        "adoption_status": "Adopted",
-        "surrender_date": "2019-12-02",
-        "surrender_reason": "lost",
-        "surrender_by_animal_control": "Yes"
+      "species": "Dog",
+      "vaccine": "Bordetella",
+      "requiredforadoption": "No"
+    },
+    {
+      "species": "Dog",
+      "vaccine": "Canine Adenovirus-2",
+      "requiredforadoption": "Yes"
     }
-]
- 
-      
-     "adoption":[
-  {
-            'application_number':  1,
-            'applicant_first_name': 'John',
-            'applicant_last_name':  'Zhao',
-            'coapplicant_first_name': null,
-             'coapplicant_last_name':  null,
-            'street': '8208 132 Ave',
-             'city':  'SAN FRANCISCO',
-            'state': 'CA',
-            'zipcode': 94105,
-            'phone_number': '405-123-5678',
-            'application_date' :'2020-01-05 12:01:01',
-            'status': 3},
-            {
-                'application_number':  2,
-                'applicant_first_name': 'Emma',
-                'applicant_last_name':  'Li',
-                'coapplicant_first_name': 'May',
-                 'coapplicant_last_name':  'Jones',
-                'street': '782 12 st',
-                 'city':  'SEATTLE',
-                'state': 'WA',
-                'zipcode': 98105,
-                'phone_number': '206-123-5678',
-                'application_date' :'2019-02-05 12:01:01',
-                'status': 1}
-  
+  ],
+  "animalAllInfo": [
+    {
+      "id": 1,
+      "pet_name": "shi zi wang",
+      "sex": "Male",
+      "age": 4,
+      "alteration_status": "neutered",
+      "descriptions": "aggressive attack dog",
+      "microchipId": "0012314",
+      "species": "Dog",
+      "breed": "Chihuahua,Dachshund",
+      "adoption_status": "Adopted",
+      "surrender_date": "2019-02-02",
+      "surrender_reason": "hurrican happened",
+      "surrender_by_animal_control": "Yes"
+    },
+    {
+      "id": 2,
+      "pet_name": "car lord",
+      "sex": "Male",
+      "age": 3,
+      "alteration_status": "neutered",
+      "descriptions": "aggressive attack cat",
+      "microchipId": "001231214",
+      "species": "Cat",
+      "breed": "Abyssinian",
+      "adoption_status": "Not Adopted",
+      "surrender_date": "2020-03-02",
+      "surrender_reason": "having baby",
+      "surrender_by_animal_control": "No"
+    },
+    {
+      "id": 3,
+      "pet_name": "Moca",
+      "sex": "Female",
+      "age": 4,
+      "alteration_status": "neutered",
+      "descriptions": "smart cute dog",
+      "microchipId": "0012314",
+      "species": "Dog",
+      "breed": "Afghan Hound",
+      "adoption_status": "Adopted",
+      "surrender_date": "2019-12-02",
+      "surrender_reason": "lost",
+      "surrender_by_animal_control": "Yes"
+    }
+  ],
+  "adoption": [
+    {
+      "application_number": 1,
+      "applicant_first_name": "John",
+      "applicant_last_name": "Zhao",
+      "coapplicant_first_name": null,
+      "coapplicant_last_name": null,
+      "street": "8208 132 Ave",
+      "city": "SAN FRANCISCO",
+      "state": "CA",
+      "zipcode": 94105,
+      "phone_number": "405-123-5678",
+      "application_date": "2020-01-05 12:01:01",
+      "status": 3
+    },
+    {
+      "application_number": 2,
+      "applicant_first_name": "Emma",
+      "applicant_last_name": "Li",
+      "coapplicant_first_name": "May",
+      "coapplicant_last_name": "Jones",
+      "street": "782 12 st",
+      "city": "SEATTLE",
+      "state": "WA",
+      "zipcode": 98105,
+      "phone_number": "206-123-5678",
+      "application_date": "2019-02-05 12:01:01",
+      "status": 1
+    }
   ]
-
-
 }
-
-
-
