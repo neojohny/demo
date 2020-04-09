@@ -105,28 +105,6 @@
       "species": "Cat"
     }
   ],
-  "Vaccine": [
-    {
-      "species": "Cat",
-      "vaccine": "Bordetella",
-      "requiredforadoption": "No"
-    },
-    {
-      "species": "Cat",
-      "vaccine": "Feline Calicivirus",
-      "requiredforadoption": "Yes"
-    },
-    {
-      "species": "Dog",
-      "vaccine": "Bordetella",
-      "requiredforadoption": "No"
-    },
-    {
-      "species": "Dog",
-      "vaccine": "Canine Adenovirus-2",
-      "requiredforadoption": "Yes"
-    }
-  ],
   "animalAllInfo": [
     {
       "id": 1,
