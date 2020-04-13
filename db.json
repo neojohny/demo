@@ -175,16 +175,6 @@
       "status": 1
     }
   ],
-  "volunteerMonth":
-  [
-    {"year": 2019,
-          "month" : 12,
-          "first_name": "Jack",
-          "last_name": "Ma",
-          "email_address": "a1@3e3.com",
-          "hours": 20
-        }
-  ],
   "volunteerLookUp":[
           {
             "first_name" : "John",
