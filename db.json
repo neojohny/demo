@@ -175,6 +175,38 @@
       "status": 1
     }
   ],
+  "adoption": [
+    {
+      "application_number": 1,
+      "applicant_first_name": "John",
+      "applicant_last_name": "Zhao",
+      "coapplicant_first_name": null,
+      "coapplicant_last_name": null,
+      "street": "8208 132 Ave",
+      "city": "SAN FRANCISCO",
+      "state": "CA",
+      "zipcode": 94105,
+      "phone_number": "405-123-5678",
+      "email": "abc@dcf.com",
+      "application_date": "2020-01-05 12:01:01",
+      "status": 3
+    },
+    {
+      "application_number": 2,
+      "applicant_first_name": "Emma",
+      "applicant_last_name": "Li",
+      "coapplicant_first_name": "May",
+      "coapplicant_last_name": "Jones",
+      "street": "782 12 st",
+      "city": "SEATTLE",
+      "state": "WA",
+      "zipcode": 98105,
+      "phone_number": "206-123-5678",
+      "email": "abce@dcf.com",
+      "application_date": "2019-02-05 12:01:01",
+      "status": 1
+    }
+  ],
   "volunteerLookUp":[
           {
             "first_name" : "John",
