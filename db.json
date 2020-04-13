@@ -184,5 +184,19 @@
           "email_address": "a1@3e3.com",
           "hours": 20
         }
-  ]
+  ],
+  "volunteerLookUp":[
+          {
+            "first_name" : "John",
+            "last_name": "Smith",
+            "email_address": "John@gmail.com",
+            "phone": '1242377292'
+          },
+          {
+            "first_name" : "Lucy",
+            "last_name": "Green",
+            "email_address": "LG@gmail.com",
+            "phone": '2452377292'
+          }
+      ]
 }
