@@ -190,13 +190,13 @@
             "first_name" : "John",
             "last_name": "Smith",
             "email_address": "John@gmail.com",
-            "phone": '1242377292'
+            "phone": "1242377292"
           },
           {
             "first_name" : "Lucy",
             "last_name": "Green",
             "email_address": "LG@gmail.com",
-            "phone": '2452377292'
+            "phone": "2452377292"
           }
       ]
 }
